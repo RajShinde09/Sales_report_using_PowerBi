@@ -10,6 +10,9 @@ Interactive filters enable the data to be explored by specific countries and qua
 
 In summary, the report provides a detailed visualization of sales dynamics, regional performance, and product category profitability. It offers valuable insights for strategic planning and decision-making, helping to identify strengths and areas for improvement in the company’s sales and marketing strategies.
 
+ # Report Snapshot (Power BI DESKTOP)
+
+![Northwind Report](https://github.com/RajShinde09/Sales_report_using_PowerBi/assets/126142440/83b9bc52-9bd4-432e-a434-159caee43d89)
 
 # About Dataset
 The Northwind database is a sample database that was originally created by Microsoft and used as the basis for their tutorials in a variety of database products for decades. The Northwind database contains the sales data for a fictitious company called “Northwind Traders,” which imports and exports specialty foods from around the world. The Northwind database is an excellent tutorial schema for a small-business ERP, with customers, orders, inventory, purchasing, suppliers, shipping, employees, and single-entry accounting. The Northwind database has since been ported to a variety of non-Microsoft databases, including PostgreSQL.
@@ -24,12 +27,6 @@ The Northwind dataset includes sample data for the following:
     Orders and Order_Details: Sales Order transactions taking place between the customers & the company
 
 
-
- 
- # Report Snapshot (Power BI DESKTOP)
-
- 
-![Northwind Report](https://github.com/RajShinde09/Sales_report_using_PowerBi/assets/126142440/83b9bc52-9bd4-432e-a434-159caee43d89)
 
 # Insights
 
