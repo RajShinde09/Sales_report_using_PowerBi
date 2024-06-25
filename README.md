@@ -1,4 +1,3 @@
-# Sales_report_using_PowerBi
 # Import-export sales Report
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/85f075a4-aba0-43af-a07f-159b6ea93a15/ReportSection?experience=power-bi
@@ -30,7 +29,7 @@ The Northwind dataset includes sample data for the following:
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Northwind Report](https://github.com/RajShinde09/PowerBi-Projects/assets/126142440/5518349d-1140-4bd5-b6d0-428756b98eff)
+![Northwind Report](https://github.com/RajShinde09/Sales_report_using_PowerBi/assets/126142440/83b9bc52-9bd4-432e-a434-159caee43d89)
 
 # Insights
 
